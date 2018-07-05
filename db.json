@@ -1,23 +1,23 @@
 {
 	"affaire": [
 		{
-			"numeroAffaire": 0,
+			"id": 0,
 			"adresse": "rue test",
 			"date": "2018-01-01"
 		},
 		{
-			"numeroAffaire": 1,
+			"id": 1,
 			"adresse": "rue plop",
 			"date": "2017-01-01"
 		}
 	],
 	"utilisateur": [
 	{
-		"email": "test@veolia.com",
+		"id": "test@veolia.com",
 		"role": "CCER"
 	},
 	{
-		"email": "vincent.constans@veolia.com",
+		"id": "vincent.constans@veolia.com",
 		"role": "CANA"
 	}
 	],
