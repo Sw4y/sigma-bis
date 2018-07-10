@@ -3,12 +3,22 @@
 		{
 			"id": 0,
 			"adresse": "rue test",
-			"date": "2018-01-01"
+			"date": "2018-01-01",
+			"moyen": {
+				"blindage": 1,
+				"feux": 2,
+				"gba": 0
+			}
 		},
 		{
 			"id": 1,
 			"adresse": "rue plop",
-			"date": "2017-01-01"
+			"date": "2017-01-01",
+			"moyen": {
+				"blindage": 0,
+				"feux": 3,
+				"gba": 1
+			}
 		}
 	],
 	"utilisateur": [
