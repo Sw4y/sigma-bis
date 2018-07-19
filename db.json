@@ -1,94 +1,157 @@
 {
-	"affaire": [
-	  {
-		"id": 0,
-		"adresse": "rue test-zero",
-		"date": "2018-01-01",
-		"moyen": [
-			{"name": "Blindage", "quantite": 1},
-			{"name": "Feux tricolores", "quantite": 2},
-			{"name": "GBA", "quantite": 0}
-		]
-	  },
-	  {
-		"id": 13,
-		"adresse": "rue test-zero-un",
-		"date": "2017-11-11",
-		"moyen": [
-			{"name": "Blindage", "quantite": 1},
-			{"name": "Feux tricolores", "quantite": 2},
-			{"name": "GBA", "quantite": 1}
-		]
-	  },
-	  {
-		"id": 1,
-		"adresse": "rue test-un",
-		"date": "2017-11-11",
-		"moyen": [
-			{"name": "Blindage", "quantite": 1},
-			{"name": "Feux tricolores", "quantite": 2},
-			{"name": "GBA", "quantite": 1}
-		]
-	  },
-	  {
-		"id": 2,
-		"adresse": "rue test-deux",
-		"date": "2017-02-02",
-		"moyen": [
-			{"name": "Blindage", "quantite": 2},
-			{"name": "Feux tricolores", "quantite": 2},
-			{"name": "GBA", "quantite": 0}
-		]
-	  },
-	  {
-		"id": 3,
-		"adresse": "rue test-trois",
-		"date": "2017-03-03",
-		"moyen": [
-			{"name": "Blindage", "quantite": 1},
-			{"name": "Feux tricolores", "quantite": 2},
-			{"name": "GBA", "quantite": 0}
-		]
-	  },
-	  {
-		"id": 4,
-		"adresse": "rue test-quatre",
-		"date": "2017-04-04",
-		"moyen": [
-			{"name": "Blindage", "quantite": 1},
-			{"name": "Feux tricolores", "quantite": 2},
-			{"name": "GBA", "quantite": 0}
-		]
-	  },
-	  {
-		"id": 5,
-		"adresse": "rue test-cinq",
-		"date": "2017-05-05",
-		"moyen": [
-			{"name": "Blindage", "quantite": 1},
-			{"name": "Feux tricolores", "quantite": 2},
-			{"name": "GBA", "quantite": 0}
-		]
-	  }
-	],
-	"utilisateur": [
-	  {
-		"id": "agent.double@veolia.com",
-		"role": "CCER"
-	  },
-	  {
-		"id": "axel.priser@veolia.com",
-		"role": "CANA"
-	  }
-	],
-	"affaire_utilisateur": [
-	  {
-		"email": "agent.double@veolia.com",
-		"numeroAffaire": [0, 1, 2]
-	  },
-	  {
-		"email": "axel.priser@veolia.com",
-		"numeroAffaire": [3, 4, 5]
-	  }
-	]
-  }
+  "affaire": [
+    {
+      "id": 0,
+      "adresse": "rue test-zero",
+      "date": "2018-01-01",
+      "moyen": [
+        {
+          "name": "Blindage",
+          "quantite": 1
+        },
+        {
+          "name": "Feux tricolores",
+          "quantite": 2
+        },
+        {
+          "name": "GBA",
+          "quantite": 0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "adresse": "rue test-zero-un",
+      "date": "2017-11-11",
+      "moyen": [
+        {
+          "name": "Blindage",
+          "quantite": 1
+        },
+        {
+          "name": "Feux tricolores",
+          "quantite": 2
+        },
+        {
+          "name": "GBA",
+          "quantite": 1
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "adresse": "rue test-un",
+      "date": "2017-11-11",
+      "moyen": [
+        {
+          "name": "Blindage",
+          "quantite": 1
+        },
+        {
+          "name": "Feux tricolores",
+          "quantite": 2
+        },
+        {
+          "name": "GBA",
+          "quantite": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "adresse": "rue test-deux",
+      "date": "2017-02-02",
+      "moyen": [
+        {
+          "name": "Blindage",
+          "quantite": 2
+        },
+        {
+          "name": "Feux tricolores",
+          "quantite": 2
+        },
+        {
+          "name": "GBA",
+          "quantite": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "adresse": "rue test-trois",
+      "date": "2017-03-03",
+      "moyen": [
+        {
+          "name": "Blindage",
+          "quantite": 1
+        },
+        {
+          "name": "Feux tricolores",
+          "quantite": 2
+        },
+        {
+          "name": "GBA",
+          "quantite": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "adresse": "rue test-quatre",
+      "date": "2017-04-04",
+      "moyen": [
+        {
+          "name": "Blindage",
+          "quantite": 1
+        },
+        {
+          "name": "Feux tricolores",
+          "quantite": 2
+        },
+        {
+          "name": "GBA",
+          "quantite": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "adresse": "rue test-cinq",
+      "date": "2017-05-05",
+      "moyen": [
+        {
+          "name": "Blindage",
+          "quantite": 1
+        },
+        {
+          "name": "Feux tricolores",
+          "quantite": 2
+        },
+        {
+          "name": "GBA",
+          "quantite": 0
+        }
+      ]
+    }
+  ],
+  "utilisateur": [
+    {
+      "id": "agent.double@veolia.com",
+      "role": "CCER",
+      "numeroAffaire": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "axel.priser@veolia.com",
+      "role": "CANA",
+      "numeroAffaire": [
+        3,
+        4,
+        5
+      ]
+    }
+  ]
+}
