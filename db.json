@@ -4,6 +4,20 @@
       "id": "0",
       "adresse": "rue test-zero",
       "date": "2018-01-01",
+      "radioDetection": {
+        "isDone": false,
+        "item": [
+          {
+            "proximite": false,
+            "diametre": false,
+            "axe": false,
+            "materieau": false
+          }
+        ],
+        "comm": "",
+        "date": "",
+        "user": ""
+      },
       "moyen": [
         {
           "name": "Blindage",
@@ -23,6 +37,20 @@
       "id": "13",
       "adresse": "rue test-zero-un",
       "date": "2017-11-11",
+      "radioDetection": {
+        "isDone": true,
+        "item": [
+          {
+            "proximite": false,
+            "diametre": true,
+            "axe": false,
+            "materieau": false
+          }
+        ],
+        "comm": "Radiodétection effectuée",
+        "date": "25/07/2018",
+        "user": "un dev digital"
+      },
       "moyen": [
         {
           "name": "Blindage",
@@ -42,6 +70,20 @@
       "id": "1",
       "adresse": "rue test-un",
       "date": "2017-11-11",
+      "radioDetection": {
+        "isDone": false,
+        "item": [
+          {
+            "proximite": false,
+            "diametre": false,
+            "axe": false,
+            "materieau": false
+          }
+        ],
+        "comm": "",
+        "date": "",
+        "user": ""
+      },
       "moyen": [
         {
           "name": "Blindage",
@@ -61,6 +103,20 @@
       "id": "2",
       "adresse": "rue test-deux",
       "date": "2017-02-02",
+      "radioDetection": {
+        "isDone": false,
+        "item": [
+          {
+            "proximite": false,
+            "diametre": false,
+            "axe": false,
+            "materieau": false
+          }
+        ],
+        "comm": "",
+        "date": "",
+        "user": ""
+      },
       "moyen": [
         {
           "name": "Blindage",
@@ -80,6 +136,20 @@
       "id": "3",
       "adresse": "rue test-trois",
       "date": "2017-03-03",
+      "radioDetection": {
+        "isDone": false,
+        "item": [
+          {
+            "proximite": false,
+            "diametre": false,
+            "axe": false,
+            "materieau": false
+          }
+        ],
+        "comm": "",
+        "date": "",
+        "user": ""
+      },
       "moyen": [
         {
           "name": "Blindage",
@@ -99,6 +169,20 @@
       "id": "4",
       "adresse": "rue test-quatre",
       "date": "2017-04-04",
+      "radioDetection": {
+        "isDone": false,
+        "item": [
+          {
+            "proximite": false,
+            "diametre": false,
+            "axe": false,
+            "materieau": false
+          }
+        ],
+        "comm": "",
+        "date": "",
+        "user": ""
+      },
       "moyen": [
         {
           "name": "Blindage",
@@ -118,6 +202,20 @@
       "id": "5",
       "adresse": "rue test-cinq",
       "date": "2017-05-05",
+      "radioDetection": {
+        "isDone": false,
+        "item": [
+          {
+            "proximite": false,
+            "diametre": false,
+            "axe": false,
+            "materieau": false
+          }
+        ],
+        "comm": "",
+        "date": "",
+        "user": ""
+      },
       "moyen": [
         {
           "name": "Blindage",
