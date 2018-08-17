@@ -16,20 +16,22 @@
         "date": "",
         "user": ""
       },
-      "moyen": [
-        {
-          "name": "Blindage",
-          "quantite": 1
-        },
-        {
-          "name": "Feux tricolores",
-          "quantite": 2
-        },
-        {
-          "name": "GBA",
-          "quantite": 0
-        }
-      ]
+      "moyen": {
+        "list": [
+          {
+            "name": "Blindage",
+            "quantite": 1
+          },
+          {
+            "name": "Feux tricolores",
+            "quantite": 2
+          },
+          {
+            "name": "GBA",
+            "quantite": 0
+          }
+        ]
+      }
     },
     {
       "id": "13",
@@ -47,20 +49,22 @@
         "date": "25/07/2018",
         "user": "un dev digital"
       },
-      "moyen": [
-        {
-          "name": "Blindage",
-          "quantite": 1
-        },
-        {
-          "name": "Feux tricolores",
-          "quantite": 2
-        },
-        {
-          "name": "GBA",
-          "quantite": 1
-        }
-      ]
+      "moyen": {
+        "list": [
+          {
+            "name": "Blindage",
+            "quantite": 1
+          },
+          {
+            "name": "Feux tricolores",
+            "quantite": 2
+          },
+          {
+            "name": "GBA",
+            "quantite": 1
+          }
+        ]
+      }
     },
     {
       "id": "1",
@@ -78,20 +82,22 @@
         "date": "",
         "user": ""
       },
-      "moyen": [
-        {
-          "name": "Blindage",
-          "quantite": 1
-        },
-        {
-          "name": "Feux tricolores",
-          "quantite": 2
-        },
-        {
-          "name": "GBA",
-          "quantite": 1
-        }
-      ]
+      "moyen": {
+        "list": [
+          {
+            "name": "Blindage",
+            "quantite": 1
+          },
+          {
+            "name": "Feux tricolores",
+            "quantite": 2
+          },
+          {
+            "name": "GBA",
+            "quantite": 1
+          }
+        ]
+      }
     },
     {
       "id": "2",
@@ -109,20 +115,22 @@
         "date": "",
         "user": ""
       },
-      "moyen": [
-        {
-          "name": "Blindage",
-          "quantite": 2
-        },
-        {
-          "name": "Feux tricolores",
-          "quantite": 2
-        },
-        {
-          "name": "GBA",
-          "quantite": 0
-        }
-      ]
+      "moyen": {
+        "list": [
+          {
+            "name": "Blindage",
+            "quantite": 2
+          },
+          {
+            "name": "Feux tricolores",
+            "quantite": 2
+          },
+          {
+            "name": "GBA",
+            "quantite": 0
+          }
+        ]
+      }
     },
     {
       "id": "3",
@@ -140,20 +148,22 @@
         "date": "",
         "user": ""
       },
-      "moyen": [
-        {
-          "name": "Blindage",
-          "quantite": 1
-        },
-        {
-          "name": "Feux tricolores",
-          "quantite": 2
-        },
-        {
-          "name": "GBA",
-          "quantite": 0
-        }
-      ]
+      "moyen": {
+        "list": [
+          {
+            "name": "Blindage",
+            "quantite": 1
+          },
+          {
+            "name": "Feux tricolores",
+            "quantite": 2
+          },
+          {
+            "name": "GBA",
+            "quantite": 0
+          }
+        ]
+      }
     },
     {
       "id": "4",
@@ -171,20 +181,22 @@
         "date": "",
         "user": ""
       },
-      "moyen": [
-        {
-          "name": "Blindage",
-          "quantite": 1
-        },
-        {
-          "name": "Feux tricolores",
-          "quantite": 2
-        },
-        {
-          "name": "GBA",
-          "quantite": 0
-        }
-      ]
+      "moyen": {
+        "list": [
+          {
+            "name": "Blindage",
+            "quantite": 1
+          },
+          {
+            "name": "Feux tricolores",
+            "quantite": 2
+          },
+          {
+            "name": "GBA",
+            "quantite": 0
+          }
+        ]
+      }
     },
     {
       "id": "5",
@@ -202,20 +214,22 @@
         "date": "",
         "user": ""
       },
-      "moyen": [
-        {
-          "name": "Blindage",
-          "quantite": 1
-        },
-        {
-          "name": "Feux tricolores",
-          "quantite": 2
-        },
-        {
-          "name": "GBA",
-          "quantite": 0
-        }
-      ]
+      "moyen": {
+        "list": [
+          {
+            "name": "Blindage",
+            "quantite": 1
+          },
+          {
+            "name": "Feux tricolores",
+            "quantite": 2
+          },
+          {
+            "name": "GBA",
+            "quantite": 0
+          }
+        ]
+      }
     }
   ]
 }
