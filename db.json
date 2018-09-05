@@ -2,234 +2,193 @@
   "affaire": [
     {
       "id": "0",
-      "adresse": "rue test-zero",
-      "date": "01/01/2018",
-      "radioDetection": {
-        "isDone": false,
-        "item": {
-          "proximite": true,
-          "diametre": true,
-          "axe": true,
-          "materieau": true
+      "msg": "Environnement trouvé",
+      "data": {
+        "id": "0",
+        "adresse": "7  R DES BRUYERES GOURNAY SUR MARNE",
+        "statut": "PLANIFIE",
+        "description": "Fuite sur Brt",
+        "radioDetection": {
+          "item": {
+            "proximite": null,
+            "diametre": null,
+            "axe": null,
+            "materieau": null
+          },
+          "comm": null,
+          "date": null,
+          "user": null,
+          "done": false
         },
-        "comm": "",
-        "date": "",
-        "user": ""
+        "moyen": {
+          "equipementCatec": null,
+          "barrage": null,
+          "interdictionStationnement": null,
+          "autres": null,
+          "alternatManuel": null,
+          "blindage": null,
+          "echelle": null,
+          "gardecorps": null,
+          "feuxTricolore": null,
+          "gba": null,
+          "levagesSpecifiques": null,
+          "pontsLourd": null,
+          "signalisationSpecifique": null
+        }
       },
-      "moyen": {
-        "list": [
-          {
-            "name": "Blindage",
-            "quantite": 1
-          },
-          {
-            "name": "Feux tricolores",
-            "quantite": 2
-          },
-          {
-            "name": "GBA",
-            "quantite": 0
-          }
-        ]
-      }
-    },
-    {
-      "id": "13",
-      "adresse": "rue test-zero-un",
-      "date": "11/11/2017",
-      "radioDetection": {
-        "isDone": true,
-        "item": {
-          "proximite": false,
-          "diametre": true,
-          "axe": false,
-          "materieau": false
-        },
-        "comm": "Radiodétection effectuée",
-        "date": "25/07/2018",
-        "user": "un dev digital"
-      },
-      "moyen": {
-        "list": [
-          {
-            "name": "Blindage",
-            "quantite": 1
-          },
-          {
-            "name": "Feux tricolores",
-            "quantite": 2
-          },
-          {
-            "name": "GBA",
-            "quantite": 1
-          }
-        ]
-      }
+      "status": "OK"
     },
     {
       "id": "1",
-      "adresse": "rue test-un",
-      "date": "11/12/2017",
-      "radioDetection": {
-        "isDone": false,
-        "item": {
-          "proximite": true,
-          "diametre": true,
-          "axe": true,
-          "materieau": true
+      "msg": "Environnement trouvé",
+      "data": {
+        "id": "1",
+        "adresse": "15 R DES BRUYERES GOURNAY SUR MARNE",
+        "statut": "A_PLANIFIER",
+        "description": "Fuite",
+        "radioDetection": {
+          "item": {
+            "proximite": true,
+            "diametre": true,
+            "axe": false,
+            "materieau": true
+          },
+          "comm": "Radiodétection effectuée",
+          "date": "25/07/2018",
+          "user": "Equipe technique",
+          "done": true
         },
-        "comm": "",
-        "date": "",
-        "user": ""
+        "moyen": {
+          "equipementCatec": "1",
+          "barrage": null,
+          "interdictionStationnement": null,
+          "autres": null,
+          "alternatManuel": null,
+          "blindage": null,
+          "echelle": null,
+          "gardecorps": null,
+          "feuxTricolore": "3",
+          "gba": "4",
+          "levagesSpecifiques": null,
+          "pontsLourd": null,
+          "signalisationSpecifique": null
+        }
       },
-      "moyen": {
-        "list": [
-          {
-            "name": "Blindage",
-            "quantite": 1
-          },
-          {
-            "name": "Feux tricolores",
-            "quantite": 2
-          },
-          {
-            "name": "GBA",
-            "quantite": 1
-          }
-        ]
-      }
-    },
-    {
-      "id": "2",
-      "adresse": "rue test-deux",
-      "date": "02/02/2017",
-      "radioDetection": {
-        "isDone": false,
-        "item": {
-          "proximite": true,
-          "diametre": true,
-          "axe": true,
-          "materieau": true
-        },
-        "comm": "",
-        "date": "",
-        "user": ""
-      },
-      "moyen": {
-        "list": [
-          {
-            "name": "Blindage",
-            "quantite": 2
-          },
-          {
-            "name": "Feux tricolores",
-            "quantite": 2
-          },
-          {
-            "name": "GBA",
-            "quantite": 0
-          }
-        ]
-      }
+      "status": "OK"
     },
     {
       "id": "3",
-      "adresse": "rue test-trois",
-      "date": "03/03/2016",
-      "radioDetection": {
-        "isDone": false,
-        "item": {
-          "proximite": true,
-          "diametre": true,
-          "axe": true,
-          "materieau": true
+      "msg": "Environnement trouvé",
+      "data": {
+        "id": "3",
+        "adresse": "R DENFER ROCHEREAU PARIS",
+        "statut": "PLANIFIE",
+        "description": "",
+        "radioDetection": {
+          "item": {
+            "proximite": null,
+            "diametre": null,
+            "axe": null,
+            "materieau": null
+          },
+          "comm": null,
+          "date": null,
+          "user": null,
+          "done": false
         },
-        "comm": "",
-        "date": "",
-        "user": ""
+        "moyen": {
+          "equipementCatec": null,
+          "barrage": null,
+          "interdictionStationnement": null,
+          "autres": null,
+          "alternatManuel": null,
+          "blindage": null,
+          "echelle": "Oui",
+          "gardecorps": null,
+          "feuxTricolore": null,
+          "gba": null,
+          "levagesSpecifiques": null,
+          "pontsLourd": null,
+          "signalisationSpecifique": null
+        }
       },
-      "moyen": {
-        "list": [
-          {
-            "name": "Blindage",
-            "quantite": 1
-          },
-          {
-            "name": "Feux tricolores",
-            "quantite": 2
-          },
-          {
-            "name": "GBA",
-            "quantite": 0
-          }
-        ]
-      }
+      "status": "OK"
     },
     {
       "id": "4",
-      "adresse": "rue test-quatre",
-      "date": "04/04/2004",
-      "radioDetection": {
-        "isDone": false,
-        "item": {
-          "proximite": true,
-          "diametre": true,
-          "axe": true,
-          "materieau": true
+      "msg": "Environnement trouvé",
+      "data": {
+        "id": "2033558",
+        "adresse": "RUE BOUCHON",
+        "statut": "PLANIFIE",
+        "description": "DESCRIPTION BOUCHON",
+        "radioDetection": {
+          "item": {
+            "proximite": true,
+            "diametre": true,
+            "axe": true,
+            "materieau": true
+          },
+          "comm": "Commentaire radio détection bouchon",
+          "date": "01/02/1003",
+          "user": "Jean-Pierre Bouchon",
+          "done": true
         },
-        "comm": "",
-        "date": "",
-        "user": ""
+        "moyen": {
+          "equipementCatec": "OUI",
+          "barrage": "NON",
+          "interdictionStationnement": "TEST",
+          "autres": "BOUCHON",
+          "alternatManuel": "3",
+          "blindage": "5",
+          "echelle": "0",
+          "gardecorps": "4",
+          "feuxTricolore": "3",
+          "gba": "1",
+          "levagesSpecifiques": "1",
+          "pontsLourd": "2",
+          "signalisationSpecifique": "5"
+        }
       },
-      "moyen": {
-        "list": [
-          {
-            "name": "Blindage",
-            "quantite": 1
-          },
-          {
-            "name": "Feux tricolores",
-            "quantite": 2
-          },
-          {
-            "name": "GBA",
-            "quantite": 0
-          }
-        ]
-      }
+      "status": "OK"
     },
     {
       "id": "5",
-      "adresse": "rue test-cinq",
-      "date": "05/05/2015",
-      "radioDetection": {
-        "isDone": false,
-        "item": {
-          "proximite": true,
-          "diametre": true,
-          "axe": true,
-          "materieau": true
+      "msg": "Environnement trouvé",
+      "data": {
+        "id": "5",
+        "adresse": "R MOUFFETARD PARIS",
+        "statut": "A_PLANIFIE",
+        "description": "",
+        "radioDetection": {
+          "item": {
+            "proximite": null,
+            "diametre": null,
+            "axe": null,
+            "materieau": null
+          },
+          "comm": null,
+          "date": null,
+          "user": null,
+          "done": false
         },
-        "comm": "",
-        "date": "",
-        "user": ""
+        "moyen": {
+          "equipementCatec": null,
+          "barrage": null,
+          "interdictionStationnement": null,
+          "autres": null,
+          "alternatManuel": null,
+          "blindage": null,
+          "echelle": null,
+          "gardecorps": null,
+          "feuxTricolore": null,
+          "gba": null,
+          "levagesSpecifiques": null,
+          "pontsLourd": null,
+          "signalisationSpecifique": null
+        }
       },
-      "moyen": {
-        "list": [
-          {
-            "name": "Blindage",
-            "quantite": 1
-          },
-          {
-            "name": "Feux tricolores",
-            "quantite": 2
-          },
-          {
-            "name": "GBA",
-            "quantite": 0
-          }
-        ]
-      }
+      "status": "OK"
     }
   ]
 }
