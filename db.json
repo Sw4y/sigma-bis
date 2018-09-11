@@ -29,10 +29,10 @@
           "blindage": null,
           "echelle": null,
           "gardecorps": null,
-          "feuxTricolore": null,
+          "feuxTricolores": null,
           "gba": null,
           "levagesSpecifiques": null,
-          "pontsLourd": null,
+          "pontsLourds": null,
           "signalisationSpecifique": null
         }
       },
@@ -67,10 +67,10 @@
           "blindage": null,
           "echelle": null,
           "gardecorps": null,
-          "feuxTricolore": "3",
+          "feuxTricolores": "3",
           "gba": "4",
           "levagesSpecifiques": null,
-          "pontsLourd": null,
+          "pontsLourds": null,
           "signalisationSpecifique": null
         }
       },
@@ -105,10 +105,10 @@
           "blindage": null,
           "echelle": "Oui",
           "gardecorps": null,
-          "feuxTricolore": null,
+          "feuxTricolores": null,
           "gba": null,
           "levagesSpecifiques": null,
-          "pontsLourd": null,
+          "pontsLourds": null,
           "signalisationSpecifique": null
         }
       },
@@ -143,10 +143,10 @@
           "blindage": "5",
           "echelle": "0",
           "gardecorps": "4",
-          "feuxTricolore": "3",
+          "feuxTricolores": "3",
           "gba": "1",
           "levagesSpecifiques": "1",
-          "pontsLourd": "2",
+          "pontsLourds": "2",
           "signalisationSpecifique": "5"
         }
       },
@@ -181,10 +181,10 @@
           "blindage": null,
           "echelle": null,
           "gardecorps": null,
-          "feuxTricolore": null,
+          "feuxTricolores": null,
           "gba": null,
           "levagesSpecifiques": null,
-          "pontsLourd": null,
+          "pontsLourds": null,
           "signalisationSpecifique": null
         }
       },
