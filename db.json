@@ -48,10 +48,10 @@
         "description": "Fuite",
         "radioDetection": {
           "item": {
-            "proximite": true,
-            "diametre": true,
-            "axe": false,
-            "materieau": true
+            "proximite": "Oui",
+            "diametre": "Oui",
+            "axe": "Non",
+            "materieau": "Oui"
           },
           "comm": "Radiodétection effectuée",
           "date": "25/07/2018",
@@ -124,10 +124,10 @@
         "description": "DESCRIPTION BOUCHON",
         "radioDetection": {
           "item": {
-            "proximite": true,
-            "diametre": true,
-            "axe": true,
-            "materieau": true
+            "proximite": "Oui",
+            "diametre": "Oui",
+            "axe": "Oui",
+            "materieau": "Oui"
           },
           "comm": "Commentaire radio détection bouchon",
           "date": "01/02/1003",
@@ -135,12 +135,12 @@
           "done": true
         },
         "moyen": {
-          "equipementCatec": "OUI",
-          "barrage": "NON",
+          "equipementCatec": "",
+          "barrage": "",
           "interdictionStationnement": "TEST",
           "autres": "BOUCHON",
           "alternatManuel": "3",
-          "blindage": "5",
+          "blindage": "",
           "echelle": "0",
           "gardecorps": "4",
           "feuxTricolores": "3",
