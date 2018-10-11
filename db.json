@@ -5,7 +5,7 @@
       "msg": "Environnement trouvé",
       "data": {
         "id": "0",
-        "numeroOt": "ot0",
+        "numeroOT": "ot0",
         "adresse": "7  R DES BRUYERES GOURNAY SUR MARNE",
         "statut": "PLANIFIE",
         "description": "Fuite sur Brt",
@@ -44,7 +44,7 @@
       "msg": "Environnement trouvé",
       "data": {
         "id": "1",
-        "numeroOt": "ot1",
+        "numeroOT": "ot1",
         "adresse": "15 R DES BRUYERES GOURNAY SUR MARNE",
         "statut": "A_PLANIFIER",
         "description": "Fuite",
@@ -83,7 +83,7 @@
       "msg": "Environnement trouvé",
       "data": {
         "id": "2",
-        "numeroOt": "ot2",
+        "numeroOT": "ot2",
         "adresse": "R DENFER ROCHEREAU PARIS",
         "statut": "PLANIFIE",
         "description": "",
@@ -122,7 +122,7 @@
       "msg": "Environnement trouvé",
       "data": {
         "id": "3",
-        "numeroOt": "ot3",
+        "numeroOT": "ot3",
         "adresse": "RUE BOUCHON",
         "statut": "PLANIFIE",
         "description": "DESCRIPTION BOUCHON",
@@ -161,7 +161,7 @@
       "msg": "Environnement trouvé",
       "data": {
         "id": "4",
-        "numeroOt": "ot4",
+        "numeroOT": "ot4",
         "adresse": "R MOUFFETARD PARIS",
         "statut": "A_PLANIFIE",
         "description": "",
