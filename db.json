@@ -194,6 +194,73 @@
         }
       },
       "status": "OK"
+    },
+    {
+      "id": "5",
+      "msg": "Environnement trouvé",
+      "data": {
+        "id": "5",
+        "numeroOT": "1959062",
+        "adresse": "7  R DE L' INDEPENDANCE DOMONT",
+        "statut": "PLANIFIE",
+        "description": "Vérification Branchement Plomb",
+        "radioDetection": {
+          "item": {
+            "proximite": true,
+            "diametre": false,
+            "axe": false,
+            "materieau": true
+          },
+          "comm": "test filtrage-Detection faite",
+          "date": "2018-10-11 10:30:00",
+          "user": null,
+          "done": true
+        },
+        "moyen": {
+          "equipementCatec": "1",
+          "barrage": "1",
+          "interdictionStationnement": "1",
+          "autres": "Prévoir autres",
+          "alternatManuel": "1",
+          "blindage": "1",
+          "echelle": "1",
+          "gardecorps": "1",
+          "feuxTricolores": "3",
+          "gba": "Prévoir GBA",
+          "levagesSpecifiques": "Prévoir levages spécifiques",
+          "pontsLourds": "Prévoir pont",
+          "signalisationSpecifique": "signalisation route"
+        }
+      },
+      "status": "OK"
+    },
+    {
+      "id": "6",
+      "msg": "Environnement trouvé",
+      "data": {
+        "id": "6",
+        "numeroOT": "1981908",
+        "adresse": "R ETIENNE-BAST ARGENTEUIL ENTRE RUE JEAN ALLEMANE ET RUE LEOPOLD GAUTHERIN",
+        "statut": "PLANIFIE",
+        "description": "Opération de voirie",
+        "radioDetection": null,
+        "moyen": {
+          "equipementCatec": null,
+          "barrage": null,
+          "interdictionStationnement": null,
+          "autres": null,
+          "alternatManuel": null,
+          "blindage": null,
+          "echelle": null,
+          "gardecorps": null,
+          "feuxTricolores": null,
+          "gba": null,
+          "levagesSpecifiques": null,
+          "pontsLourds": null,
+          "signalisationSpecifique": null
+        }
+      },
+      "status": "OK"
     }
   ]
 }
